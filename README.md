@@ -122,16 +122,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of:
-
-- Dashboard
-- AI Prioritization
-- Task Management
-- Google Calendar Integration
-
----
 
 ## 🎥 Demo
 
@@ -140,7 +130,7 @@ Live Frontend
 https://zerohour-coral.vercel.app/
 
 Demo Video
-
+https://drive.google.com/drive/u/0/folders/1sZI2vl12aPOT69s8VCklUVG6drt02-1j
 
 
 ---
